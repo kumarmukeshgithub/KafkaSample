@@ -1,6 +1,6 @@
 **Kafka Configuration in Mac M3 Pro**
 
-Steps for Installation:
+# Steps for Installation:
 
 1. Open the terminal in Mac 
 2. Paste the command given below then press enter-
@@ -9,7 +9,7 @@ Steps for Installation:
     <br>brew install zookeeper
 
 
- Steps to Work with kafka:
+## Steps to Work with kafka:
  1. First start the zookeeper server -
     <br>brew services start zookeeper
  2. Then start the kafka server -
