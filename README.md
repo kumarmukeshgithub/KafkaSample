@@ -1,4 +1,4 @@
-Kafka Configuration in Mac M3 Pro
+**Kafka Configuration in Mac M3 Pro**
 
 Steps for Installation:
 
