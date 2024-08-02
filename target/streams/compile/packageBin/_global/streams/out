@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/mukeshbehera/IdeaProjects/KafkaSample/target/scala-2.12/kafkasample_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaProducerApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/KafkaSample/target/scala-2.12/classes/KafkaProducerApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/KafkaSample/target/scala-2.12/classes/Demo$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/KafkaSample/target/scala-2.12/classes/Demo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaSparkSQLApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/KafkaSample/target/scala-2.12/classes/KafkaSparkSQLApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaProducerApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/KafkaSample/target/scala-2.12/classes/KafkaProducerApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaSparkSQLApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/KafkaSample/target/scala-2.12/classes/KafkaSparkSQLApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaProducerApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/KafkaSample/target/scala-2.12/classes/KafkaProducerApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/KafkaSample/target/scala-2.12/classes/Demo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaSparkSQLApp$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/KafkaSample/target/scala-2.12/classes/KafkaSparkSQLApp$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaSparkSQLApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mukeshbehera/IdeaProjects/KafkaSample/target/scala-2.12/classes/KafkaSparkSQLApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
